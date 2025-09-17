@@ -1,52 +1,52 @@
-# 👋 Hello, I'm YmClash!
+# 👋 Salut, je suis YmClash !
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+Developer+%26+Tech+Enthusiast;Python+%7C+Rust+%7C+Compiler+Engineering;Always+learning+and+building+cool+stuff!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Développeur+Passionné+%26+Technophile;Python+%7C+Rust+%7C+Ingénierie+des+Compilateurs;Toujours+en+train+d'apprendre+et+de+créer!)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-- 🎯 **Passionate Developer** focused on creating innovative solutions
-- 🤖 **Tech Enthusiast** interested in Programming, Robotics, Gaming, Crypto, and Compiler Engineering
-- 🌱 **Currently Learning** Python, Rust, and various frameworks to build amazing projects
-- 💡 **Goal**: Maybe even create my own programming language! 😄
-- 🎮 **Fun Fact**: I love combining technology with creativity
+- 🎯 **Développeur Passionné** focalisé sur la création de solutions innovantes
+- 🤖 **Technophile** intéressé par la Programmation, la Robotique, le Gaming, la Crypto, et l'Ingénierie des Compilateurs
+- 🌱 **Actuellement en apprentissage** Python, Rust, et divers frameworks pour construire des projets incroyables
+- 💡 **Objectif** : Peut-être même créer mon propre langage de programmation ! 😄
+- 🎮 **Fun Fact** : J'adore combiner technologie et créativité
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Stack Technique & Compétences
 
-### Programming Languages
+### Langages de Programmation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Areas of Interest
-- 🤖 **Robotics & Automation**
-- 🎮 **Game Development** 
-- 💰 **Cryptocurrency & Blockchain**
-- ⚙️ **Compiler Engineering**
-- 🧠 **Algorithm Design**
+### Domaines d'Intérêt
+- 🤖 **Robotique & Automatisation**
+- 🎮 **Développement de Jeux** 
+- 💰 **Cryptomonnaies & Blockchain**
+- ⚙️ **Ingénierie des Compilateurs**
+- 🧠 **Conception d'Algorithmes**
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
 <div align="center">
   
-![YmClash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YmClash&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Statistiques GitHub de YmClash](https://github-readme-stats.vercel.app/api?username=YmClash&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YmClash&layout=compact&theme=radical&hide_border=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=YmClash&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-## 🤝 Let's Collaborate!
+## 🤝 Collaborons ensemble !
 
-I'm always excited to work on:
-- 🔥 **Open Source Projects** - Contributing to the community
-- 🚀 **Innovative Tech Solutions** - Building the future
-- 🤖 **Robotics Projects** - Bringing ideas to life
-- 💎 **Blockchain Applications** - Decentralized solutions
-- 🎯 **Compiler Design** - Language creation and optimization
+Je suis toujours enthousiaste pour travailler sur :
+- 🔥 **Projets Open Source** - Contribuer à la communauté
+- 🚀 **Solutions Tech Innovantes** - Construire le futur
+- 🤖 **Projets Robotiques** - Donner vie aux idées
+- 💎 **Applications Blockchain** - Solutions décentralisées
+- 🎯 **Conception de Compilateurs** - Création et optimisation de langages
 
-## 📫 Get In Touch
+## 📫 Me contacter
 
 <div align="center">
 
@@ -61,13 +61,13 @@ I'm always excited to work on:
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 "Le code c'est comme l'humour. Quand on doit l'expliquer, c'est mauvais." - Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=YmClash&color=blueviolet&style=for-the-badge)
+![Vues du Profil](https://komarev.com/ghpvc/?username=YmClash&color=blueviolet&style=for-the-badge)
 
 </div>
 
 <!---
-YmClash/YmClash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+YmClash/YmClash est un ✨ repository spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
+Vous pouvez cliquer sur le lien Preview pour voir vos changements.
 --->
